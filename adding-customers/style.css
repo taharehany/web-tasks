@@ -1,0 +1,10 @@
+body {
+    background-color: #eee;
+}
+#container .customers p {
+    background-color: #fff;
+    padding: 20px;
+    margin-right: 20px;
+    width: fit-content;
+    display: inline-block;
+}
